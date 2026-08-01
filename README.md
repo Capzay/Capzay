@@ -1,21 +1,33 @@
-# 💫 About Me:
-Currently working on a VR Aim Trainer (vr-aim.com)<br>Best in Python, Typescript<br>Discord Bot Developer<br>Linux > Windows
+## Capzay
 
+Co-founder and Lead Developer at [VR AIM](https://vr-aim.com), a VR aim trainer
+with 22,000+ players. It's out on Meta and Steam is next. I work on the backend
+and the trainer itself, plus most of the calls on architecture and tooling, and
+a good chunk of Discord moderation and user support.
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Capzay&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Capzay&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Capzay&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Mostly Python, TypeScript and C#. I'm fine in Unity, Next.js, Postgres and the
+boring infrastructure bits. I run Arch. I'd rather delete a service than scale
+one.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Capzay&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+### Stuff I've built
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+**[VR AIM](https://vr-aim.com)** - VR aim trainer, out on Meta, Steam soon. I
+handle the backend and the in-headset trainer.
 
----
-[![](https://visitcount.itsvg.in/api?id=Capzay&icon=0&color=0)](https://visitcount.itsvg.in)
+**[Cpz-Music](https://github.com/Capzay/Cpz-Music)** - Self-hosted music
+streamer for my own library. One Next.js process serves the app, the API and the
+audio. Supabase just holds the rows. It runs as a PWA, a desktop app and an
+Android app, and any of them can act as a remote for whatever device is actually
+playing. You can download albums and play them offline, and the listens get
+recorded at the time they really happened. The old version of this was a Fastify
+API, a Vite SPA, an nginx container and a separate auth gateway all glued
+together with Docker Compose. The rewrite does more without any of it.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**[IVI-EVA-01](https://github.com/Capzay/IVI-EVA-01)** - Discord bot for a VR
+esports server. Ping-to-play with cooldowns, reaction roles, XP levelling, and
+weekly availability calendars the team captains actually use to sort out scrims.
+
+**[Docker-Auth-System](https://github.com/Capzay/Docker-Auth-System)** - Shared
+auth gateway for containerised apps. I've retired it. Piling that many prod
+services onto one Docker host means one machine takes everything down with it,
+and I stopped being willing to do that.
