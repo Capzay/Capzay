@@ -1,7 +1,7 @@
 ## Capzay
 
 Co-founder and Lead Developer at [VR AIM](https://vr-aim.com), a VR aim trainer
-with 22,000+ players. It's out on Meta and Steam is next. I work on the backend
+with 22,000+ players. It's out on Meta and Steam. I work on the backend
 and the trainer itself, plus most of the calls on architecture and tooling, and
 a good chunk of Discord moderation and user support.
 
@@ -11,7 +11,7 @@ one.
 
 ### Stuff I've built
 
-**[VR AIM](https://vr-aim.com)** - VR aim trainer, out on Meta, Steam soon. I
+**[VR AIM](https://vr-aim.com)** - VR aim trainer, out on Meta and Steam. I
 handle the backend and the in-headset trainer.
 
 **[Cpz-Music](https://github.com/Capzay/Cpz-Music)** - Self-hosted music
