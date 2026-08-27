@@ -1,9 +1,9 @@
 ## Capzay
 
-Co-founder and Lead Developer at [VR AIM](https://vr-aim.com), a VR aim trainer
-with 22,000+ players. It's out on Meta and Steam is next. I work on the backend
-and the trainer itself, plus most of the calls on architecture and tooling, and
-a good chunk of Discord moderation and user support.
+Ex Lead Developer and Co-Founder at [VR AIM](https://vr-aim.com), a VR aim
+trainer with 22,000+ players. It's out on Meta and Steam is next. I worked on
+the backend and the trainer itself, plus most of the calls on architecture and
+tooling, and a good chunk of Discord moderation and user support.
 
 Mostly Python, TypeScript and C#. I'm fine in Unity, Next.js, Postgres and the
 boring infrastructure bits. I run Arch. I'd rather delete a service than scale
@@ -12,7 +12,7 @@ one.
 ### Stuff I've built
 
 **[VR AIM](https://vr-aim.com)** - VR aim trainer, out on Meta, Steam soon. I
-handle the backend and the in-headset trainer.
+handled the backend and the in-headset trainer.
 
 **[Cpz-Music](https://github.com/Capzay/Cpz-Music)** - Self-hosted music
 streamer for my own library. One Next.js process serves the app, the API and the
