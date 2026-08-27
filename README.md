@@ -26,8 +26,3 @@ together with Docker Compose. The rewrite does more without any of it.
 **[IVI-EVA-01](https://github.com/Capzay/IVI-EVA-01)** - Discord bot for a VR
 esports server. Ping-to-play with cooldowns, reaction roles, XP levelling, and
 weekly availability calendars the team captains actually use to sort out scrims.
-
-**[Docker-Auth-System](https://github.com/Capzay/Docker-Auth-System)** - Shared
-auth gateway for containerised apps. I've retired it. Piling that many prod
-services onto one Docker host means one machine takes everything down with it,
-and I stopped being willing to do that.
